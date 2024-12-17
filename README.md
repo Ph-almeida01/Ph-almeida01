@@ -40,9 +40,6 @@
    <a href="https://www.linkedin.com/in/philipe-almeida-0407361a4/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
    </a>
-   <a href="https://github.com/Ph-almeida01" target="_blank">
-      <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-   </a>
 </p>
 
 ---
