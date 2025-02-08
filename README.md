@@ -1,7 +1,7 @@
 <!-- START README -->
 <h1 align="center">👨‍💻 Olá! Eu sou o Philipe Almeida!</h1>
 <p align="center">
-   🎓 Estudante de Ciência da Computação | 💻 Apaixonado por Tecnologia
+   🎓 Estudante de Ciência da Computação | 🔧 Focado em Desenvolvimento Back-End
 </p>
 
 ---
@@ -9,8 +9,6 @@
 ## 🛠️ **Linguagens e Tecnologias**
 <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
 </p>
@@ -20,7 +18,7 @@
 ## 🚀 **Minhas Estatísticas**
 <p align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ph-almeida01&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph-almeida01&layout=compact&langs_count=7&theme=react"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph-almeida01&layout=compact&langs_count=3&theme=react"/>
 </p>
 
 ---
@@ -48,7 +46,7 @@
    <table>
       <tr>
          <td>
-            <strong>"Sucesso é a soma de pequenos esforços repetidos dia após dia."</strong>  
+            <strong>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</strong>  
             <br> _ <em>Robert Collier</em>
          </td>
       </tr>
